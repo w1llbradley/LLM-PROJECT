@@ -112,3 +112,57 @@ Sysmon installed
 SimRunner (runner.ps1) running
 5. Run the application
 streamlit run ollamatest.py
+
+---
+
+## Some example queries
+
+### Basic System Queries
+- `agents`
+- `list agents`
+- `show connected agents`
+
+### Alert Queries
+- `alerts last 10 minutes`
+- `alerts last hour`
+- `alerts today`
+- `high alerts`
+- `critical alerts`
+- `level 10 alerts`
+- `high alerts last 20 minutes`
+- `sysmon alerts today`
+
+### AI / Analysis Queries
+- `summarise these alerts`
+- `explain these alerts`
+- `what is happening here`
+- `is this malicious`
+- `give me a SOC summary`
+
+### MITRE ATT&CK Queries
+- `show mitre attacks`
+- `map alerts to mitre`
+- `what mitre techniques are present`
+
+### Chart / Visualisation Queries
+- `render a pie chart of source ips`
+- `pie chart of destination ips`
+- `render a bar chart of alert levels`
+- `bar chart of mitre techniques`
+- `top source ips`
+
+### Atomic Red Team Queries
+- `setup atomic`
+- `run atomic T1059.001 1`
+- `run atomic T1003 2`
+
+### Custom Simulation Queries
+- `run simulation pwsh_suspicious_flags`
+- `run simulation cmd_to_pwsh_chain`
+
+### Investigation Queries
+- `save this investigation`
+- `show saved investigations`
+- `run investigation 1`
+
+---
