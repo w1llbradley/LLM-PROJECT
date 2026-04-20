@@ -55,7 +55,7 @@ The system consists of four main components:
 
 The diagram below illustrates how all system components interact.
 
-Import the provided `architecture.drawio` file into diagrams.net to view or edit.
+![Wazuh AI Architecture](images/diagram.jpeg)
 
 - The user interacts with the Streamlit dashboard  
 - The dashboard communicates with:
