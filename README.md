@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wazuh AI Security Assistant
 
 ## Overview
@@ -166,3 +167,6 @@ streamlit run ollamatest.py
 - `run investigation 1`
 
 ---
+=======
+# LLM-PROJECT
+>>>>>>> a2a32d8cec743b64015ac644553d81bc299ff5dd
