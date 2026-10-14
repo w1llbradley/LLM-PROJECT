@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Wazuh AI Security Assistant
 
 ## Overview
